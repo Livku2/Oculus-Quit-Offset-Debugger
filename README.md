@@ -5,10 +5,8 @@ It will just give you the offsets of both quit methods in the debug log
 
 I do not want to add the source due to certain script kiddies
 
-Just type your package name in and press inject
+I'm not making an installer rn
 
 
 
 This is just a test so I know how to do it with everything else
-
-Requires Java
