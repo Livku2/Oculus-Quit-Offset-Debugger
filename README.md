@@ -7,6 +7,6 @@ I do not want to add the source due to certain script kiddies
 
 I'm not making an installer rn
 
-\n
+
 
 This is just a test so I know how to do it with everything else
