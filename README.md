@@ -10,3 +10,5 @@ Just type your package name in and press inject
 
 
 This is just a test so I know how to do it with everything else
+
+Requires Java
